@@ -1,5 +1,5 @@
 
-1>>Image Search Slider:
+1>>Image Search Engine:
 
 The Image Search Engine is a web-based application built using HTML, CSS, and JavaScript that allows users to search for images based on specific keywords. The primary goal of this project is to simulate the functionality of a search engine specifically focused on retrieving images from a pre-defined dataset or API, such as Unsplash or Google Images.
 
